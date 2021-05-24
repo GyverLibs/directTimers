@@ -9,7 +9,7 @@
 ATMega2560, ATMega328, ATMega32u4
 
 ### Документация
-К библиотеке есть расширенная [расширенная документация](https://alexgyver.ru/directTimers/)
+К библиотеке есть [расширенная документация](https://alexgyver.ru/directTimers/)
 
 ## Содержание
 - [Установка](#install)
