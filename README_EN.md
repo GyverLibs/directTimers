@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 #directTimers
 Library for advanced manual control of ATMega2560, ATMega328, ATMega32u4 timers
 - Library functions allow you to access all the features and modes of working with timers / counters + watchdog interrupts
